@@ -18,15 +18,3 @@ def authView(request):
   form = UserCreationForm()
  return render(request, "registration/signup.html", {"form": form})
 
-
-
-
-
-#this is for testing
-#new2 testing
-#new1 testing
-#testing
-#new1 
-#new2
-#git new1
-#new3
